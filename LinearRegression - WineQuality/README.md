@@ -1,4 +1,4 @@
-CARPETA: LinearRegression - WineQuality
+
 
 🗃️​ Contenidos: 
 
