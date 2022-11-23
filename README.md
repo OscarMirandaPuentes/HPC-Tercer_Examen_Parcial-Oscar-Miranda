@@ -15,10 +15,11 @@ ejecucción. 🤔
         la correcta ejecucción del código. Se detalla el contenido de las carpetas y comandos necesarios para la compilación. 
 
 
-### Modelo en C++
+### Modelo en Python
 * [Modelo Python]() 
-        Modelo de regresión lineal implementado en C++. En el enlace se encuentra todas las instrucciones que se debem realizar para 
-        la correcta ejecucción del código. Se detalla el contenido de las carpetas y comandos necesarios para la compilación. 
+        Modelo de regresión lineal implementado en Python. Este contiene un analisis más específico de los datos utilizando librerias de 
+        python como sklearn, numpy, random forest entre otras de graficación que pertmiten una mejor visualización de las relaciones. 
+        También contiene la comparación y conclusiones de la realización del modelo. 
         
         
        
