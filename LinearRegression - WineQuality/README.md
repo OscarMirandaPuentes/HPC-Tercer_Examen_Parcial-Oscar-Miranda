@@ -52,7 +52,7 @@ ln -sf /usr/include/boost boost
 sudo apt update
 ```
 
-2. Una vez descargada la carpeta  **LinearRegression - WineQuality**, ubique dónde está ubicada y ábrala. 
+2. Una vez descargada la carpeta  **LinearRegression - WineQuality**, ubique dónde está  y ábrala. 
    Con **LinearRegression - WineQuality** abierta abra una terminal en dicha carpeta. 
     - Clic derecho dentro de la carpeta, posteriormente **Abrir en una terminal**
     ![image](https://user-images.githubusercontent.com/110064371/203450977-bbc1cb33-87a9-4015-9cac-1ab9259fccad.png)
