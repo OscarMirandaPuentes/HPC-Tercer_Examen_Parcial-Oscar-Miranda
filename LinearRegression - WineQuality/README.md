@@ -63,7 +63,8 @@ sudo apt update
 g++ -std=c++11 Regression/linearregresion.cpp ClassExtraction/extractiondata.cpp main.cpp -o output
 ```
 4. Se tuvo que crear un archivo llamado output que puede ser ejecutado por la orden **./**, para que la implementación
-   utilice el dataset hay que pasarlo como parámetro junto al separador como sigue:
+   utilice el dataset hay que pasarlo como parámetro junto al separador como sigue.
+   Ejecute el comando acontinuación:
 ```
 ./output dataset.csv ","
 ```
