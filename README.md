@@ -10,6 +10,7 @@ ejecucción. 🤔
 
 
 ### Modelo en C++
+* [Modelo C++]() 
 CARPETA: LinearRegression - WineQuality
 
 🗃️​ Contenidos: 
