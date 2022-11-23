@@ -11,7 +11,8 @@ ejecucción. 🤔
 
 ### Modelo en C++
 * [Modelo C++](https://github.com/OscarMirandaPuentes/HPC-Tercer-Examen-Parcial-Oscar-Miranda/tree/main/LinearRegression%20-%20WineQuality) 
-        modelo de regresión lineal implementado en C++. 
+        Modelo de regresión lineal implementado en C++. En el enlace se encuentra todas las instrucciones que se debem realizar para 
+        la correcta ejecucción del código. Se detalla el contenido de las carpetas y comandos necesarios para la compilación. 
 
 
         
