@@ -1,5 +1,5 @@
- 
-### Tercer Examen Parcial - Modelo regresión lineal - Predicción calidad del vino blanco
+# Tercer Examen Parcial 
+###  Modelo regresión lineal - Predicción calidad del vino blanco
 Este repositorio almacena dos implentaciones de un modelo regresión lineal.
 El modelo utiliza los datos de muestras de vino blanco y sus características, 
 registrados en "winequality-white" para realizar una predicción
