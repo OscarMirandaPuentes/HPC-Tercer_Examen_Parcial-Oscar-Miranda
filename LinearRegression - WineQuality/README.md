@@ -23,11 +23,35 @@
       
        
 💻​ Pasos de ejecucción:   
-1. Asegurarse de tener instalada la librería de Eigen, puesto que se trata al dataset como una matriz es necesaria 
-   esta librería para su manipulación. 
+1. Asegurarse de tener instalada la librería de Eigen. Además de tener BOOST y CMAKE. Si no posee alguna de las anteriores
+   utilice los siguientes comandos según sea necesario.
+* Eigen:
 ```     
 sudo apt install libeigen3-dev
-```       
+sudo apt update
+```
+enlace simbolico a la biblioteca Eigen:
+```
+ln -sf  /usr/include/eigen3/Eigen Eigen
+ln -sf  /usr/include/eigen3/unsupported unsupported
+sudo apt update
+```
+* CMAKE:
+```
+sudo apt install cmake
+sudo apt update
+```
+* BOOST:
+```
+sudo apt-get install libboost-all-dev
+sudo apt update
+```
+enlace simbolico a la biblioteca boost:
+```  
+ln -sf /usr/include/boost boost
+sudo apt update
+```
+
 2. Una vez descargada la carpeta  **LinearRegression - WineQuality**, abra una terminal en dicha carpeta. 
     - Clic derecho dentro de la carpeta, posteriormente **Abrir en una terminal**
    ![image](https://user-images.githubusercontent.com/110064371/203443960-b5e109d0-05a7-4411-8fb8-f94b9e04b020.png)
